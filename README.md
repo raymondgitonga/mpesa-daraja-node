@@ -2,14 +2,14 @@
 This app implements the Online lipa na mpesa api
 
 # Prerequisites
-Node v6+, 8+ recommended.
-ExpressJs
-ES6 knowledge
-Api Key and Secret from https://developer.safaricom.co.ke/home
+1. Node v6+, 8+ recommended.
+2. ExpressJs
+3. ES6 knowledge
+4. Api Key and Secret from https://developer.safaricom.co.ke/home
 
 # Installation
-npm i mpesa-online 
-npm i express
+1. npm i mpesa-online 
+2. npm i express
 
 # Description and Usage
 To test the app, run it on postman a successful request will be similar to the one below.
